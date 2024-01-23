@@ -1,9 +1,1 @@
-/*
- * Author:
- * Date:
- * Name:
- */
-
-class Problem11 {
-public:
-};
+//there is no task11
